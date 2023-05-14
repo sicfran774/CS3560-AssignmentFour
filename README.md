@@ -1,5 +1,7 @@
 # CS3560 Assignment Four
 
+Customer and Order GUI with SQL database
+
 This Eclipse Java project is an exercise on using OOP in conjunction with databases.
 Utilizes JavaFX, PostgreSQL, Hibernate
 
